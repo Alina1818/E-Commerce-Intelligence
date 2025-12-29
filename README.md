@@ -1,5 +1,5 @@
-```markdown
-# 🚀 E-Commerce Intelligence: Marginal Anatomy & Predictive Retention
+
+# E-Commerce Intelligence: Marginal Anatomy & Predictive Retention
 
 ## 📌 Назва проєкту: **Project Lifecycle & Marginality Moat**
 **Комплексна BI-система для декомпозиції виручки, аналізу життєвого циклу клієнтів (LTV) та стратегічної сегментації бази.**
