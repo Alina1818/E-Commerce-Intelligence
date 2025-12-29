@@ -1,5 +1,5 @@
 
-# E-Commerce Growth Intelligence: Revenue Factor Decomposition & Customer Lifecycle Audit"
+# E-Commerce Growth Intelligence: Revenue Factor Decomposition & Customer Lifecycle Audit
 
 ## Комплексна BI-система для декомпозиції виручки, аналізу життєвого циклу клієнтів (LTV) та стратегічної сегментації бази.** 
 
